@@ -5,3 +5,5 @@ OpenSCAD model to cover the status leds of the Winix Zero air purifier. The cove
 
 ![Winx Zero cover 3D render](winixzerocover.png)
 
+Print instructions:
+* rotate to vertical position
