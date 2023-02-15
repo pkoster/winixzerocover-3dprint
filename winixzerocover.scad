@@ -15,7 +15,7 @@ module bar(l) {
 }
 
 
-translate([l3,0,0]) rotate(S[0,alpha2,0])
+translate([l3,0,0]) rotate([0,alpha2,0])
 union() {
   translate([l2,0,0]) rotate([0,alpha1,0]) bar(l1);
   bar(l2);
